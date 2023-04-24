@@ -17,6 +17,8 @@
   },
    "scripts": {
        "dev": "nodemon server.js",  
+      "build": "ionic-app-scripts build",
+      "serve": "ionic-app-scripts serve",
      "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
